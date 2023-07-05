@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, Helvetica;
+    text-align: center;
+}
+#fogo {
+    height: 30px;
+    width: auto;
+}
+
+ul,
+ol {
+    text-align: start;
+    color: rgb(7, 7, 7);  
+
+}
+
+h1 {
+    background-color: black;
+    color: white;
+}
+
+h3 {
+    background-color: burlywood;
+
+}
+
+img {
+    width: 275px;
+    height: auto;
+}
